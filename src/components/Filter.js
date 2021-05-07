@@ -11,7 +11,7 @@ export default class Filter extends Component {
                         <option>Latest</option>
                         <option value="lowest">Lowest</option>
                         <option value="highest">Highest</option>
-                    </select>
+                    </select>  
                 </div>
                 <div className="filter-size">
                     Filter {" "}

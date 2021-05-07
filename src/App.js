@@ -31,7 +31,7 @@ class App extends React.Component {
           :-1 
           :a._id < b._id
           ? 1 
-          : -1
+          : -1 
         ), 
       }))
   };
