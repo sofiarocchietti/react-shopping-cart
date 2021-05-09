@@ -18,7 +18,7 @@ export default class Products extends Component {
                      { formatCurrency(product.price)} {/* También se puede hacer así: {"$" + product.price} */}
                    </div>
                    <button onClick = {() => this.props.addToCart(product)} className='button primary'>
-                     Add To Cart
+                     Add to cart
                    </button>
                  </div>
                </div>
