@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+
 
 export default class Filter extends Component {
     render() {
@@ -13,6 +14,7 @@ export default class Filter extends Component {
                         <option value="highest">Highest</option>
                     </select>  
                 </div>
+               
                 <div className="filter-size">
                     Filter {" "}
                     <select value= {this.props.size} onChange={this.props.filterProducts}>
