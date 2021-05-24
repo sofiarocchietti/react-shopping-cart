@@ -88,7 +88,7 @@ import {fetchProducts} from './actions/productActions'
                       }>Add to cart</button>
 
                     </div>
-                  </div>
+                  </div> 
                 </div>
               </Zoom>
             </Modal>
