@@ -77,7 +77,7 @@ export default class Products extends Component {
                       }>Add to cart</button>
 
                     </div>
-                  </div>
+                  </div> 
                 </div>
               </Zoom>
             </Modal>
